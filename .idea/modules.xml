@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EMAworkbench/.idea/EMAworkbench.iml" filepath="$PROJECT_DIR$/../EMAworkbench/.idea/EMAworkbench.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/final assignment.iml" filepath="$PROJECT_DIR$/.idea/final assignment.iml" />
     </modules>
   </component>
